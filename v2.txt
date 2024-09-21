@@ -1,1 +1,10 @@
 vmess://eyJhZGQiOiAiMTk0Ljg3LjU0LjMwIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiZ29vZ2xlLmNvbSIsICJpZCI6ICJhNzNjMDk3NS0xMmFlLTQ3MjQtOTExZC00NDA0MjUwZjM3MGUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6IDgwODEsICJwcyI6ICJcdWQ4M2RcdWRlODAgTWFyeiAoa2VtYWxsYSkgW1ZNZXNzIC0gdGNwXSIsICJzY3kiOiAiYXV0byIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAiMTk0Ljg3LjU0LjMwIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiZ29vZ2xlLmNvbSIsICJpZCI6ICI5MWZjNTgwYS0yMmYzLTRiZmEtODhmMS1lMTIxOWVkMGMzNjkiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6IDgwODEsICJwcyI6ICJcdWQ4M2RcdWRlODAgTWFyeiAoVmxzKSBbVk1lc3MgLSB0Y3BdIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
+
+vmess://eyJhZGQiOiAiMTk0Ljg3LjU0LjMwIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiZ29vZ2xlLmNvbSIsICJpZCI6ICI5MWZjNTgwYS0yMmYzLTRiZmEtODhmMS1lMTIxOWVkMGMzNjkiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODA4MCwgInBzIjogIlx1ZDgzZFx1ZGU4MCBNYXJ6IChWbHMpIFtWTWVzcyAtIHdzXSIsICJzY3kiOiAiYXV0byIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
+
+vless://2eb61074-ec8b-4ba9-9c9b-9448fac35a0e@194.87.54.30:8443?security=reality&type=tcp&headerType=&path=&host=&sni=cdn.discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%F0%9F%9A%80%20Marz%20%28Vls%29%20%5BVLESS%20-%20tcp%5D
+
+vless://2eb61074-ec8b-4ba9-9c9b-9448fac35a0e@194.87.54.30:2053?security=reality&type=grpc&headerType=&serviceName=xyz&authority=&mode=gun&sni=cdn.discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%F0%9F%9A%80%20Marz%20%28Vls%29%20%5BVLESS%20-%20grpc%5D
+
+trojan://CsTZphxGMYLc_Bey-krPzQ@194.87.54.30:2083?security=tls&type=ws&headerType=&path=&host=&sni=gstatic.com&fp=#%F0%9F%9A%80%20Marz%20%28Vls%29%20%5BTrojan%20-%20ws%5D
